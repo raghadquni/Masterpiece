@@ -2,7 +2,7 @@
 
 ## User Stories
 - **Register:** As a new doctor I can sign up in the platform
-- **Login:** As a patient or doctor in this hospital, I can log in to the platform to add my readings as a patient or check patients' sugar and adjust their doses as a doctor.
+- **Login:** As a patient or doctor in this hospital, I can log in to the platform to add my readings as a patient or check patients' sugar level and adjust their doses as a doctor.
 - **Logout:** As a patient I can logout from the platform so no one else can use it
 - **Edit patient** As a patient I can edit my profile
 - **Add Readings:** As a patient, I can add my readings
@@ -21,5 +21,5 @@
 - **Update the reading status:** As a doctor I can Update the reading status to true when reading
 - **Get all doctors or patients:** As a Admin I can view all patients or doctors and show information.
 - **Get one doctor or patient:** For Admin.
-- **Delete one doctor or patient:** As a Admin I can Delete any patient or doctor
+- **spam one doctor or patient:** As a Admin I can Delete any patient or doctor
  
