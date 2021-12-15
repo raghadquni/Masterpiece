@@ -19,6 +19,7 @@
 - **Edit a doses for patient:** As a doctor I can edit doses for a patient
 - **Add a new appointment for patient:** As a doctor I can add a new appointment to the patient when needed
 - **Update the reading status:** As a doctor I can Update the reading status to true when reading
-- **Get all doctors or patients:** As a Admin I can view all patients or doctor and show information.
+- **Get all doctors or patients:** As a Admin I can view all patients or doctors and show information.
 - **Get one doctor or patient:** For Admin.
+- **Delete one doctor or patient:** As a Admin I can Delete any patient or doctor
  
