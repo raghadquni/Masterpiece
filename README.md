@@ -21,5 +21,5 @@
 - **Update the reading status:** As a doctor I can Update the reading status to true when reading
 - **Get all doctors or patients:** As a Admin I can view all patients or doctors and show information.
 - **Get one doctor or patient:** For Admin.
-- **spam one doctor or patient:** As a Admin I can Delete any patient or doctor
- 
+- **spam one doctor or patient:** As a Admin I can spam(Soft Delete) any patient or doctor
+
