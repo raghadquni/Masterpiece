@@ -22,4 +22,3 @@
 - **Get all doctors or patients:** As a Admin I can view all patients or doctors and show information.
 - **Get one doctor or patient:** For Admin.
 - **spam one doctor or patient:** As a Admin I can spam(Soft Delete) any patient or doctor
-
