@@ -1,0 +1,38 @@
+.Nav li {
+    list-style-type: none;
+    display: inline-block;
+    font-size: 1.3rem;
+    margin-right: 8rem;
+    margin-top: 1.8rem;
+    font-family: 'Roboto', sans-serif;
+}
+
+.Nav{
+    margin-left: 8rem;
+
+}
+.darkMode {
+    border: none;
+    background-color: var(--bg-color);
+    font-size: 1.8rem;
+    cursor: pointer;
+  }
+
+a {
+    text-decoration: none;
+    color: var(--text-color);
+}
+
+a:hover {
+    color: black;
+}
+
+.active:hover {
+    border-bottom: 2px solid #ff6b7d;
+    color: black;
+}
+
+hr {
+    width: 60%;
+    margin: auto;
+}

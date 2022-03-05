@@ -1,5 +1,9 @@
-body {
- 
+body
+{
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden;
 }
 
 :root {
@@ -19,16 +23,12 @@ body {
   bottom:0px;
   left:0px;
   right:0px;
+  width: 100%;
 }
 
 [data-theme="dark"] {
   --bg-color: rgb(28, 28, 28);
   --text-color: #fff;
+  
 }
 
-.darkMode {
-  border: none;
-  background-color: var(--bg-color);
-  font-size: 2rem;
-  cursor: pointer;
-}

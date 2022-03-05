@@ -1,0 +1,15 @@
+.portfilio {
+    position: relative;
+    margin-top: 8rem;
+    margin-left: 3rem;
+}
+
+.portHr {
+    width: 100%;
+    color: rgba(128, 128, 128, 0.536);
+}
+
+.btn {
+    background: linear-gradient(to top left, #cc99ff 22%, #ff6699 79%);
+    border: none;
+}
