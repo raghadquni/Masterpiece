@@ -1,4 +1,3 @@
-import React from 'react';
 import port1 from '../Component/Img/port1.png'
 
 

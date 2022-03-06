@@ -27,7 +27,7 @@ function Home() {
         <>
         <div className="home">
         <div className="profileImg" >
-           <img src={personalImg} className="profileImg0"/>
+           <img src={personalImg} className="profileImg0" alt= "profileImg"/>
         </div>
         <div className="personalInfo">
         <h1 className="name">Hi, I'm <span className="fname">{info.firstName}</span> 👋🏻</h1>

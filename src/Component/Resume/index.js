@@ -1,6 +1,6 @@
 import React from "react";
 import resume from '../Img/resume.png'
-import Footer from '../Footer';
+// import Footer from '../Footer';
 import "./style.css"
 
 function Resume() {
@@ -8,7 +8,7 @@ function Resume() {
     return (
         <>
         <div className="resumeDiv">
-        <img src={resume} className="resume"/>
+        <img src={resume} className="resume" alt="resume"/>
         </div>
         </>
 

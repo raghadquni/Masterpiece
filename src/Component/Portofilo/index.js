@@ -1,5 +1,5 @@
 import React from "react";
-import info from '../../Info/index';
+// import info from '../../Info/index';
 import Button from 'react-bootstrap/Button';
 import Card from 'react-bootstrap/Card';
 import port1 from '../Img/port1.png'
