@@ -28,7 +28,6 @@ a:hover {
 }
 
 .active:hover {
-    border-bottom: 2px solid #ff6b7d;
     color: black;
 }
 

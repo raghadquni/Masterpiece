@@ -31,30 +31,12 @@ const info = {
 
     ],
     portfolio: [
-        {
-            title: "Portfolio",
-            websiteImg: port1,
-            liveSite: "",
-            sourceLink: "https://github.com/raghadquni/myportofilo",
-        },
-        {
-            title: "ToDo List",
-            websiteImg: port1,
-            liveSite: "",
-            sourceLink: "",
-        },
-        {
-            title: "Flip Card Game",
-            websiteImg: port1,
-            liveSite: "",
-            sourceLink: "",
-        },
-        {
-            title: "Readings",
-            websiteImg: port1,
-            liveSite: "",
-            sourceLink: "",
-        },
+
+        ["Portfolio", port1, "https://raghad-aquni-portofilo.netlify.app","https://github.com/raghadquni/myportofilo"],
+        ["Portfolio", port1, "https://raghad-aquni-portofilo.netlify.app", "https://github.com/raghadquni/myportofilo"],
+        ["Portfolio", port1, "https://raghad-aquni-portofilo.netlify.app", "https://github.com/raghadquni/myportofilo"],
+        ["Portfolio", port1, "https://raghad-aquni-portofilo.netlify.app", "https://github.com/raghadquni/myportofilo"],
+        
     ]
 }
 

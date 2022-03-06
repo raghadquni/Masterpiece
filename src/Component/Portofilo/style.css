@@ -2,6 +2,7 @@
     position: relative;
     margin-top: 8rem;
     margin-left: 3rem;
+    display: inline-block;
 }
 
 .portHr {
@@ -12,4 +13,20 @@
 .btn {
     background: linear-gradient(to top left, #cc99ff 22%, #ff6699 79%);
     border: none;
+}
+
+
+.btn:hover {
+    border: none;
+    transform: scale(1.04) perspective(0.1px);
+}
+
+
+.portList {
+    list-style-type: none;
+    display: inline-block;
+    margin-bottom: 2rem;
+    font-size: 1.3rem;
+    font-family: 'Roboto', sans-serif;
+    padding: 0%;
 }
