@@ -1,10 +1,10 @@
 
  .profileImg {
     background: linear-gradient(to top left, #cc99ff 22%, #ff6699 79%);
-    height: 33vh;
+    height: 37vh;
     width: 400px;
-    margin-top: 17rem;
-    margin-left: 20rem;
+    margin-top: 12rem;
+    margin-left: 16rem;
     border-radius: 50%;
     padding: 2rem;
     position: relative;

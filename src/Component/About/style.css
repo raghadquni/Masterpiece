@@ -26,10 +26,9 @@
 .terminal {
     background-color: rgb(25, 24, 28);
     width: 45%;
-    height: 50vh;
+    height: 50%;
     margin: auto;
     margin-top: 10%;
-    padding: 0%;
     border-radius: 0.5rem;
 }
 
