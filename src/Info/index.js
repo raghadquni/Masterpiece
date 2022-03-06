@@ -34,7 +34,7 @@ const info = {
     portfolio: [
 
         ["Portfolio", port1, "https://raghad-aquni-portofilo.netlify.app","https://github.com/raghadquni/myportofilo"],
-        ["Portfolio", port2, "https://diabetic-readings.netlify.app", "https://github.com/raghadquni/myportofilo"],
+        ["Readings", port2, "https://diabetic-readings.netlify.app", "https://github.com/raghadquni/myportofilo"],
         ["Portfolio", port1, "https://raghad-aquni-portofilo.netlify.app", "https://github.com/raghadquni/myportofilo"],
         ["Portfolio", port1, "https://raghad-aquni-portofilo.netlify.app", "https://github.com/raghadquni/myportofilo"],
         
