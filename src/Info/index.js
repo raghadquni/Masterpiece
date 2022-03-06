@@ -1,4 +1,5 @@
 import port1 from '../Component/Img/port1.png'
+import port2 from '../Component/Img/port2.png'
 
 
 const info = {
@@ -33,7 +34,7 @@ const info = {
     portfolio: [
 
         ["Portfolio", port1, "https://raghad-aquni-portofilo.netlify.app","https://github.com/raghadquni/myportofilo"],
-        ["Portfolio", port1, "https://raghad-aquni-portofilo.netlify.app", "https://github.com/raghadquni/myportofilo"],
+        ["Portfolio", port2, "https://diabetic-readings.netlify.app", "https://github.com/raghadquni/myportofilo"],
         ["Portfolio", port1, "https://raghad-aquni-portofilo.netlify.app", "https://github.com/raghadquni/myportofilo"],
         ["Portfolio", port1, "https://raghad-aquni-portofilo.netlify.app", "https://github.com/raghadquni/myportofilo"],
         
