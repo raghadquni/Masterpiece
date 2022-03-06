@@ -39,7 +39,7 @@ function Home() {
         <ul> 
         <li className="Social"> <a href="https://www.linkedin.com/in/raghad-alquni/">
           <FaLinkedinIn className="socialIcon"/> </a> </li>
-          <li className="Social"> <a href="https://www.linkedin.com/in/raghad-alquni/">
+          <li className="Social"> <a href="https://github.com/raghadquni">
           <BsGithub className="socialIcon"/> </a> </li>
         </ul>
         </div>
