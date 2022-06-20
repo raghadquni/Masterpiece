@@ -1,10 +1,17 @@
-.resumeDiv {
-    position: relative;
-    width: 70%;
-}
+/* .resumeDiv {
+    position: absolute;
+    width: 50%;
+    height: 50%;
+    top: 30%;
+    margin-bottom: 3rem;
+
+} */
 
 .resume {
-    width: 70%;
-    margin: 35% ;
-    margin-top: 25%;
+    width: 40%;
+    position: absolute;
+    top: 15%;
+    left: 30%;
+    margin-bottom: 6rem;
 }
+

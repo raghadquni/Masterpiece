@@ -9,29 +9,24 @@ function Nav() {
   const location = useLocation();
   const { pathname } = location;
   const splitLocation = pathname.split("/");
-  const [darkMode, setDarkMode] = useState(false);
   
 
-  const toggleDarkMode = () => {
-    setDarkMode(darkMode ? false : true);
-  };
 
   return (
-    <div className="App" data-theme={darkMode ? "dark" : "light"}>
+    <>
       <ul className="Nav" >
         <li className={splitLocation[1] === "" ? "active" : ""}> <Link to="/">Home</Link></li>
-        <li className={splitLocation[1] === "" ? "active" : ""}> <Link to="/About">About me</Link> </li>
-        <li className={splitLocation[1] === "" ? "active" : ""}>  <Link to="/Portofilo">Portfilio</Link> </li>
-        <li className={splitLocation[1] === "" ? "active" : ""}> <Link to="/Resume"> Resume </Link> </li>
-        <li className="darkIcon">
-      <button onClick={toggleDarkMode} className="darkMode">
-        {darkMode ? <MdLightMode color="gold" /> : <WiMoonWaningCrescent3 /> }
-      </button>
-      </li>
+        <li className={splitLocation[1] === "About" ? "active" : ""}> <Link to="/About">About me</Link> </li>
+        <li className={splitLocation[1] === "Portofilo" ? "active" : ""}>  <Link to="/Portofilo">Portofilo</Link> </li>
+        <li className={splitLocation[1] === "Resume" ? "active" : ""}> <Link to="/Resume"> Resume </Link> </li>
+  
       </ul>
       <hr />
-    </div>
+      </>
   );
 }
 
+
+
 export default Nav;
+

@@ -6,18 +6,9 @@ body
     overflow-x: hidden;
 }
 
-:root {
-  --bg-color: #fff;
-  --text-color: #000;
-  width: 100%;
-  height: 100%;
-}
-
 .App {
   font-family: sans-serif;
   text-align: center;
-  background-color: var(--bg-color);
-  color: var(--text-color);
   position:absolute;
   top:0px;
   bottom:0px;
@@ -26,9 +17,4 @@ body
   width: 100%;
 }
 
-[data-theme="dark"] {
-  --bg-color: rgb(28, 28, 28);
-  --text-color: #fff;
-  
-}
 

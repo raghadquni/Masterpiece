@@ -1,20 +1,21 @@
 
  .profileImg {
     background: linear-gradient(to top left, #cc99ff 22%, #ff6699 79%);
-    height: 37vh;
+    height: 40vh;
     width: 400px;
-    margin-top: 12rem;
-    margin-left: 16rem;
     border-radius: 50%;
     padding: 2rem;
-    position: relative;
+    position: absolute;
+    top: 23%;
+    left: 20%;
 }
 
 .profileImg0 {
-    height: 38vh;
-    width: 340px;
-    margin-top: -3.5rem;
-    margin-left: 1.3rem;
+    height: 45vh;
+    width: 320px;
+    position: absolute;
+    bottom: 2px;
+    left: 60px;
 }
 
 .personalInfo {
@@ -69,16 +70,17 @@
 .socialIcon {
 color: black;
 } 
+
+.socialIcon:hover {
+    color:  #ff6699;
+
+}
 .socialList {
     margin-top: 2rem;
     margin-left: 6rem;
 }
 
 
-[data-theme="dark"] {
-    --bg-color: rgb(28, 28, 28);
-    --text-color: rgb(255, 255, 255);
-  }
 
 
   

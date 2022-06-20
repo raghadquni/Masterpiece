@@ -8,30 +8,22 @@
 }
 
 .Nav{
-    margin-left: 8rem;
-
+    position: absolute;
+    left: 27%;
+    width: 100%;
 }
-.darkMode {
-    border: none;
-    background-color: var(--bg-color);
-    font-size: 1.8rem;
-    cursor: pointer;
-  }
 
 a {
     text-decoration: none;
-    color: var(--text-color);
+   color: black;
 }
 
 a:hover {
-    color: var(--text-color);
+    color: #ff6699;
 }
-
-.active:hover {
-    color: black;
-}
-
 hr {
-    width: 60%;
-    margin: auto;
+    width: 50%;
+    position: absolute;
+    top: 6%;
+    left: 25%;
 }
