@@ -1,7 +1,5 @@
-import React, { useState } from "react";
+import React from "react";
 import { Link, useLocation } from "react-router-dom";
-import { MdLightMode } from "react-icons/md";
-import { WiMoonWaningCrescent3 } from "react-icons/wi";
 import "./style.css"
 
 
